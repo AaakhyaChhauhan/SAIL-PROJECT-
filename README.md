@@ -1,3 +1,8 @@
+![Project Banner](banner.png)
+<p align="center">
+  <img src="banner.png" alt="OTP Project Banner" width="100%">
+</p>
+
 # Secure Login and OTP Verification System using PHP and MySQL
 ## Features
 - User login authentication
