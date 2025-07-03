@@ -1,4 +1,4 @@
-![Project Banner](banner.png)
+![Project Banner](ProjectBanner.png)
 <p align="center">
   <img src="banner.png" alt="OTP Project Banner" width="100%">
 </p>
